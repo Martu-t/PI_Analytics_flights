@@ -1,0 +1,10 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
+#ignore .env for database
+.env
+.env.example
+.env.local
+.env.staging
