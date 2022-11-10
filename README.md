@@ -27,7 +27,7 @@ Stack tecnológico:
 + `GitHub`: control de versiones
 
 
-## ** Pasos o**
+## ** Pasos del proyecto **
 
 Se hizo un primer acercamiento al dataset con Python. Creando un notebook que contiene un análisis exploratorio, transformaciones y el preprocesamiento pertinentes. El notebook .ipynb se encuentra documentado en cada línea para una mejor comprensión. 
 
