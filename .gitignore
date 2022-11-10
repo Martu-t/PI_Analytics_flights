@@ -13,4 +13,5 @@
 *.csv
 
 #ingnore any csv
-
+*.xlsx
+*.xls
