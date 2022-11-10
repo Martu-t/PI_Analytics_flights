@@ -48,4 +48,4 @@ Power BI presentó algunos problemas de conección con MySQL, dado un fallo genr
 
 Se han visto distintos enfoques en los aún se puede investigar más. Por el tiempo en el que se requiere este informe, no hubo posibilidad de hacerlo y se recomienda seguir abordando el tema con más herramientas para un mejor análisis. 
 
-
+Siguiendo el mismo enfoque se propone investigar los módelos particulares. Por ejemplo: http://www.airsafe.com/events/models/rate_mod.htm
