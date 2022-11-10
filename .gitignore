@@ -10,7 +10,7 @@
 .env.staging
 
 #ingnore any csv
-*.csv
+
 
 #ingnore any csv
 *.xlsx
